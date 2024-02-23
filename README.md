@@ -30,7 +30,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Walkthrough Video
-[ORM E-Commerce Back End Walkthrough Video]()
+[ORM E-Commerce Back End Walkthrough Video](https://drive.google.com/file/d/17OmRW9rhBDOZRb709KydSUpFqLzSmhD_/view)
 
 ## Table of Contents
 
